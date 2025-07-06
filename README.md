@@ -37,3 +37,45 @@ That’s it — you’re ready to go!
 python rafacon.py example.com
 ```
 
+🌐 Include subdomains
+```
+python rafacon.py example.com --subs
+```
+🚫 Exclude file types
+```
+python rafacon.py example.com --blacklist png,jpg
+```
+✅ Show only live URLs
+```
+python rafacon.py example.com --live
+```
+🛡 Risky path check
+```
+python rafacon.py example.com --cve
+```
+📡 Real-time CVE lookup
+```
+python rafacon.py example.com --realtime-cve
+```
+💾 Save to file
+```
+python rafacon.py example.com --o result.txt
+```
+🎯 Full power
+```
+python rafacon.py example.com --subs --live --cve --realtime-cve --blacklist jpg,png --threads 20 -
+```
+
+## 🔐 Why Use Rafacon?
+Rafacon helps you:
+
+#### 🚀 Quickly collect and clean URLs for recon
+
+#### 🔍 Focus on live, working endpoints
+
+#### 🛡 Identify risky or exposed paths
+
+#### 📡 Discover real-time CVEs based on URL content
+
+# Built By RAFU(walwa)
+Inspired by gau, made smarter for serious hunters.
