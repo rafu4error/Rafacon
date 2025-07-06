@@ -79,3 +79,14 @@ Rafacon helps you:
 
 # Built By RAFU(walwa)
 Inspired by gau, made smarter for serious hunters.
+
+
+
+## 📢 Join Our Community
+
+### Join our Telegram group for updates, tips, and support:  
+https://t.me/rafa_sec https://t.me/rafa_sec
+
+### For feedback and help, contact our support channel:  
+https://t.me/Rafa_support](https://t.me/Rafa_support
+
